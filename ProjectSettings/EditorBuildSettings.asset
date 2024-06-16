@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/karsiori/Scenes/MenuScene.unity
+    guid: 8677bdfc34792c14498972e7fc99082a
+  - enabled: 1
+    path: Assets/LevelScenes/Level1.unity
+    guid: 44bdb1ab0e2c5d34fafb387dd4f142aa
+  - enabled: 1
+    path: Assets/LevelScenes/Level2.unity
+    guid: 9d89ec66a0f28f74880b8082ef1f56a3
+  - enabled: 1
+    path: Assets/Start_pack/Scenes/MainScane.unity
+    guid: 8ecf3aa7b39d54553b4347be8acb71b2
+  - enabled: 1
+    path: Assets/Asset Tambahan/GameOver.unity
+    guid: 92176a5b97c788541a0b034d9913ef6c
+  - enabled: 1
+    path: Assets/Asset Tambahan/GameWin.unity
+    guid: e2e63b02793e51a4388749c555a67118
+  m_configObjects: {}
